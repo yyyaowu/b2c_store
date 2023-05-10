@@ -47,11 +47,3 @@ server:
     context-path: /admin
 
 #OSS配置
-aliyun:
-  oss:
-    file:
-      # 控制台 - oss - 点击对应桶 - 概览 - 地域节点
-      endpoint: oss-cn-beijing.aliyuncs.com
-      keyid: LTAI5t5biYw3sbKJWYfXEayD
-      keysecret: wpsmQTPoqSQPMPjlxrCFeCDhB7e4fT
-      bucketname: duoduoyao
