@@ -3,6 +3,6 @@ spring:
     name: collect-service
   cloud:
     nacos:
-      server-addr: 8.130.76.35:8848 #注册中心
+      server-addr: 
 server:
   port: 3008
