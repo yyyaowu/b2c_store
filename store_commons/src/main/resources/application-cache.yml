@@ -2,7 +2,7 @@ spring:
   cache:
     type: redis
   redis:
-    host: 8.130.76.35
+    host: 
     port: 6379
     jedis: # 设置Redis连接池
       pool:
